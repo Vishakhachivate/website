@@ -1,0 +1,49 @@
+.header
+{
+background-color:#DAB0E5;
+color:black;
+padding:20px;
+font-family:goudy stout;
+font-size: 40px;
+text-align: center;
+height:20%
+width:100%
+}
+
+
+.sidebarleft
+{
+background-color:#DAB0E5;
+padding: 20px;
+font-family:times new roman;
+font-size:20px;
+float: left;
+height:80%;
+width:10%;
+}
+
+
+.sidebarright
+{
+background-color:#A240BA;
+color:white;
+padding: 20px;
+font-family:times new roman;
+font-size:20px;
+float: right;
+height:80%;
+width:84.67%;
+}
+
+
+.footer
+{
+background-color: black;
+
+
+}
+
+
+
+
+
